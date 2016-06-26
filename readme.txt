@@ -1,9 +1,8 @@
-==Gitë¥¼ ì„¤ì¹˜í•˜ê³  ìµœì´ˆë¡œ í•´ì¤„ ëª…ë ¹ë“¤===
+==¸ðµç ¹®¼­ÀÇ encodingÀº Windows 7ÀÇ ±âº» ÀÎÄÚµùÀ» ÀÌ¿ëÇÑ´Ù.==
+==GitÀ» ÃÖÃÊ·Î ¼³Ä¡ÇÏ°í ¹Ýµå½Ã ÇØ¾ßÇÏ´Â ÀÏ==
  git config --global username "John Snow"
  git config --global user.email "john.snow@alal.com
 
-Git ìˆ˜ì—… webpage ìž…ë‹ˆë‹¤
-ìƒˆë¡­ê²Œ
-xx
-ÇÑ±ÛÀ» ÀÌ¿ëÇØº¸ÀÚ.
-SENS ë…¸íŠ¸ë¶ì—ì„œ íŽ¸ì§‘ì„ ì‹œìž‘í•œë‹¤.
+==readme.txtÀÇ ¼öÁ¤ ±â·Ï==
+SENS¿¡¼­ °íÄ£ ³»¿ë 
+
