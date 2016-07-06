@@ -1,4 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as pyplot
+import matploblib.pyplot as plt
 
-print "hello world"
+print "Hello World"
