@@ -1,3 +1,4 @@
 *.swp
 *.*~
 ps1.php
+*.orig
