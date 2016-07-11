@@ -4,6 +4,7 @@
  git config --global user.email "john.snow@alal.com
 
 ==readme.txt의 수정 기록==
+xxx
 SENS에서 고친 내용 
 knw desktop 에서 수정함
 
